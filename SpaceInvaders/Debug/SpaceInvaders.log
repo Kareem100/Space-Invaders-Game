@@ -1,0 +1,16 @@
+﻿Build started 16-Dec-19 8:34:07 PM.
+     1>Project "C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Level4.cpp
+         Level4.cpp
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(24): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(29): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(39): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(62): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\spaceinvaders\level4.cpp(86): error C2065: 'back_ground_up' : undeclared identifier
+     1>Done Building Project "C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\SpaceInvaders\SpaceInvaders.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.84

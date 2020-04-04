@@ -1,0 +1,60 @@
+﻿Build started 04-Apr-20 10:01:25 AM.
+     1>Project "C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\sfml_test.2\sfml_test.2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\/SFML-2.4.2/include" /AI"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\/SFML-2.4.2/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chiken_game.cpp
+         chiken_game.cpp
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(24): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(31): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(50): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(132): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(133): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(166): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(167): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(257): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(262): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(279): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(280): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(281): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(282): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(357): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(372): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(392): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(418): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(423): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(440): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(449): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(449): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(461): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(476): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(484): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(484): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(498): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(515): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(541): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(575): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(713): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(749): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(826): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(827): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(828): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(847): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(864): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(905): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(915): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(936): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(942): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(958): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(964): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(978): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\google\documents\visual studio 2013\projects\spaceinvaders\sfml_test.2\sfml_test.2\chiken_game.cpp(999): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\Debug\sfml_test.2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\/SFML-2.4.2/lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\Debug\sfml_test.2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\Debug\sfml_test.2.lib" /MACHINE:X86 Debug\chiken_game.obj
+         Debug\game2.obj
+         sfml_test.2.vcxproj -> C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\Debug\sfml_test.2.exe
+     1>Done Building Project "C:\Users\Google\Documents\Visual Studio 2013\Projects\SpaceInvaders\sfml_test.2\sfml_test.2\sfml_test.2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.19
